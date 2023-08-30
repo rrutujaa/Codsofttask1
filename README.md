@@ -16,7 +16,7 @@
     <section class="about" style="padding: 4em 0; text-align: center; background-color: #fff;">
         <div class="about-content">
             <img src="profile.jpg" alt="Profile Image" style="max-width: 100%; border-radius: 50%;">
-            <p style="font-size: 1.2em; margin: 2em auto; max-width: 800px; opacity: 0.8;">Hello, I'm John! A passionate web developer and designer with a creative mind and a love for coding.</p>
+            <p style="font-size: 1.2em; margin: 2em auto; max-width: 800px; opacity: 0.8;">Hello, I'm Rutuja! A passionate web developer and designer with a creative mind and a love for coding.</p>
         </div>
     </section>
 
@@ -54,7 +54,7 @@
 
     <section class="contact" style="padding: 4em 0; text-align: center; background-color: #fff;">
         <h2 style="font-size: 2.5em; margin-bottom: 1em; color: #333;">Contact</h2>
-        <p style="font-size: 1.2em; color: #666;">Email: <a href="mailto:john@example.com" style="color: #007bff; text-decoration: none;">john@example.com</a></p>
+        <p style="font-size: 1.2em; color: #666;">Email: <a href="rutuja@gmail.com" style="color: #007bff; text-decoration: none;">rutuja@example.com</a></p>
         <p style="font-size: 1.2em; color: #666;">Phone: (123) 456-7890</p>
     </section>
 
